@@ -1,6 +1,6 @@
 # hello-world
 just some primer exercise
 
-I
+I am a China student
 
 333
