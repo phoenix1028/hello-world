@@ -1,0 +1,3 @@
+typedef //为类型取一个新名字
+可以定义指向结构的指针 struct book *p
+申请内存空间 (*void)malloc(200 *sizeof(char)),指针类型为空，可以强制转换的指针，让他指向一个内存为200乘char大小的空间，等待分配
